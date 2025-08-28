@@ -9,12 +9,83 @@
         body{font-family:Arial,sans-serif;background-color:#f0f2f5;margin:0;padding:0;color:#333}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1200px;margin:0 auto;padding:0 15px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none}.nav a:hover{background-color:rgba(255,255,255,.08)}.main-content{padding:18px 0; min-height: 60vh;}.page-title{font-size:2rem;font-weight:700;color:#800000;border-bottom:2px solid #800000;padding-bottom:10px;margin-bottom:1rem;}.search-box{background:#fff;border:1px solid #ddd;padding:16px}.search-input{width:100%;padding:10px;border:1px solid #ccc}.search-help{font-size:.9rem;color:#555;margin-top:8px}.results{margin-top:16px;background:#fff;border:1px solid #ddd;padding:12px}
     </style>
     <script>
-        function doSearch(){
+        // Lightweight site-wide search with on-demand page fetching and caching
+        const sitePages = [
+            { title: 'Home', url: 'index.html' },
+            { title: 'Latest Jobs', url: 'latest-jobs.html' },
+            { title: 'Results', url: 'results.html' },
+            { title: 'Admit Card', url: 'admit-card.html' },
+            { title: 'Answer Key', url: 'answer-key.html' },
+            { title: 'Syllabus', url: 'syllabus.html' },
+            { title: 'Admission', url: 'admission.html' },
+            { title: 'UPSSSC PET Exam City Details 2025', url: 'upsssc-pet-exam-city-details-2025.html' },
+            { title: 'UP Police SI Online Form 2025 (4543 Post)', url: 'up-police-si-online-form-2025.html' },
+            { title: 'IBPS Clerk 15th Form (10277 Posts)', url: 'ibps-clerk-15th-recruitment-2025-last-date-today.html' },
+            { title: 'Search', url: 'search.html' },
+            { title: 'Contact', url: 'contact.html' },
+            { title: 'Privacy Policy', url: 'privacy-policy.html' },
+            { title: 'Disclaimer', url: 'disclaimer.html' },
+            { title: 'About', url: 'about.html' },
+            { title: 'Fact Checking Policy', url: 'fact-checking.html' },
+            { title: 'Job Template', url: 'job-template.html' }
+        ];
+
+        const pageCache = new Map(); // url -> { title, url, text }
+
+        function renderResults(items){
+            const ul = document.getElementById('results-list');
+            ul.innerHTML = '';
+            if(items.length === 0){
+                const li = document.createElement('li');
+                li.textContent = 'No results found.';
+                ul.appendChild(li);
+                return;
+            }
+            items.forEach(p => {
+                const li = document.createElement('li');
+                const a = document.createElement('a');
+                a.href = p.url;
+                a.textContent = p.title;
+                li.appendChild(a);
+                ul.appendChild(li);
+            });
+        }
+
+        async function ensurePageText(page){
+            if(pageCache.has(page.url)) return pageCache.get(page.url);
+            try{
+                const res = await fetch(page.url, { credentials: 'same-origin' });
+                const html = await res.text();
+                // Strip tags to plain text for a simple search corpus
+                const text = html.replace(/<script[\s\S]*?<\/script>/gi,'').replace(/<style[\s\S]*?<\/style>/gi,'').replace(/<[^>]*>/g,' ').replace(/\s+/g,' ').toLowerCase();
+                const cached = { ...page, text };
+                pageCache.set(page.url, cached);
+                return cached;
+            }catch(e){
+                const cached = { ...page, text: page.title.toLowerCase() };
+                pageCache.set(page.url, cached);
+                return cached;
+            }
+        }
+
+        async function doSearch(){
             const q = document.getElementById('q').value.trim().toLowerCase();
-            const links = Array.from(document.querySelectorAll('.results a'));
-            links.forEach(a=>{ const show = a.textContent.toLowerCase().includes(q); a.parentElement.style.display = show? 'list-item':'none'; });
+            if(q.length === 0){
+                renderResults(sitePages);
+                return false;
+            }
+            const withText = await Promise.all(sitePages.map(ensurePageText));
+            const matches = withText.filter(p => p.title.toLowerCase().includes(q) || p.text.includes(q));
+            renderResults(matches);
             return false;
         }
+
+        // Initialize default list and live filtering
+        document.addEventListener('DOMContentLoaded', () => {
+            renderResults(sitePages);
+            const input = document.getElementById('q');
+            input.addEventListener('input', () => { doSearch(); });
+        });
     </script>
 </head>
 <body>
