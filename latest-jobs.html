@@ -6,7 +6,50 @@
     <title>Latest Jobs - Sarkari Job</title>
     <style>
         :root{--header-red:#b30000;--nav-blue:#001f5c}
-        body{font-family:Arial,sans-serif;background-color:#f0f2f5;margin:0;padding:0;color:#333}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1200px;margin:0 auto;padding:0 15px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none}.nav a:hover{background-color:rgba(255,255,255,.08)}.main-content{padding:18px 0}.page-title{font-size:2rem;font-weight:700;color:#800000;border-bottom:2px solid #800000;padding-bottom:10px;margin-bottom:1rem}.intro-text{background-color:#fff;border:1px solid #ddd;padding:15px;margin-bottom:1.25rem;line-height:1.6}.jobs-container{background-color:#fff;border:1px solid #ddd}.jobs-header{background-color:var(--header-red);color:#fff;text-align:center;font-size:1.35rem;font-weight:700;padding:8px}.jobs-list{list-style:disc;padding:10px 22px;margin:0}.jobs-list li{padding:6px 2px;border-bottom:1px dashed #ccc;font-size:.98rem}.jobs-list li:last-child{border-bottom:none}.footer{background-color:#1f2937;color:#fff;padding:1rem 0;margin-top:1.25rem;text-align:center}.footer a{color:#d1d5db;margin:0 10px}
+        body{font-family:Arial,sans-serif;background-color:#f0f2f5;margin:0;padding:0;color:#333;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1200px;margin:0 auto;padding:0 15px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:5px}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none;transition:background-color 0.2s}.nav a:hover{background-color:rgba(255,255,255,.08)}.main-content{padding:18px 0}.page-title{font-size:2rem;font-weight:700;color:#800000;border-bottom:2px solid #800000;padding-bottom:10px;margin-bottom:1rem}.intro-text{background-color:#fff;border:1px solid #ddd;padding:15px;margin-bottom:1.25rem;line-height:1.6}.jobs-container{background-color:#fff;border:1px solid #ddd}.jobs-header{background-color:var(--header-red);color:#fff;text-align:center;font-size:1.35rem;font-weight:700;padding:8px}.jobs-list{list-style:disc;padding:10px 22px;margin:0}.jobs-list li{padding:6px 2px;border-bottom:1px dashed #ccc;font-size:.98rem}.jobs-list li:last-child{border-bottom:none}.footer{background-color:#1f2937;color:#fff;padding:1rem 0;margin-top:1.25rem;text-align:center}.footer a{color:#d1d5db;margin:0 10px}
+        
+        /* Mobile Responsive CSS */
+        @media (max-width: 900px){
+            .container{padding:0 12px}
+            .page-title{font-size:1.8rem}
+            .intro-text{padding:12px}
+            .jobs-list{padding:8px 18px}
+        }
+        @media (max-width: 700px){
+            .header h1{font-size:2rem}
+            .header p{font-size:1rem}
+            .nav-container{flex-wrap:wrap;gap:3px}
+            .nav a{padding:6px 10px;font-size:14px}
+            .page-title{font-size:1.6rem;padding-bottom:8px}
+            .intro-text{padding:10px;font-size:15px}
+            .jobs-header{font-size:1.2rem;padding:6px}
+            .jobs-list{padding:6px 15px}
+            .jobs-list li{font-size:0.95rem;padding:5px 2px}
+        }
+        @media (max-width: 500px){
+            .container{padding:0 8px}
+            .header h1{font-size:1.8rem}
+            .header p{font-size:0.9rem}
+            .nav-container{flex-direction:column;gap:5px}
+            .nav a{padding:5px 8px;font-size:13px;margin:1px 0}
+            .page-title{font-size:1.4rem;padding-bottom:6px}
+            .intro-text{padding:8px;font-size:14px}
+            .jobs-header{font-size:1.1rem;padding:5px}
+            .jobs-list{padding:5px 12px}
+            .jobs-list li{font-size:0.9rem;padding:4px 2px}
+            .footer a{margin:0 5px;font-size:13px}
+        }
+        @media (max-width: 400px){
+            .header h1{font-size:1.6rem}
+            .header p{font-size:0.8rem}
+            .nav a{padding:4px 6px;font-size:12px}
+            .page-title{font-size:1.3rem;padding-bottom:5px}
+            .intro-text{padding:6px;font-size:13px}
+            .jobs-header{font-size:1rem;padding:4px}
+            .jobs-list{padding:4px 10px}
+            .jobs-list li{font-size:0.85rem;padding:3px 2px}
+            .footer a{margin:0 4px;font-size:12px}
+        }
     </style>
 </head>
 <body>
@@ -38,6 +81,7 @@
         <div class="jobs-container">
             <div class="jobs-header">All Latest Jobs</div>
             <ul class="jobs-list">
+                <li><a href="bsf-hc-ro-rm-recruitment-2025.html">BSF HC RO / RM Form (1121 Posts) – Start – Last Date: 23 September 2025</a></li>
                 <li><a href="#">AAL Junior Executive Online Form 2025 – Start – Last Date: 28 August 2025</a></li>
                 <li><a href="#">BSF Constable Tradesman Correction / Edit Form 2025 – Last Date Today – Last Date: 28 August 2025</a></li>
                 <li><a href="#">UPSSSC Junior Engineer Civil Online Form 2025 – Start – Last Date Today – Last Date: 28 August 2025</a></li>
@@ -49,8 +93,8 @@
                 <li><a href="#">DSSSB Delhi High Court Attendant Online Form 2025 – Start – Last Date: 24 September 2025</a></li>
                 <li><a href="#">Bihar BSSC 4th Grade Level Online Form (1481 Posts) – Start – Last Date: 24 September 2025</a></li>
                 <li><a href="#">Railway RRC WR Apprentice Online Form 2025 (6500 Posts) – Start – Last Date: 17 September 2025</a></li>
-                <li><a href="#">LIC AAO / AE Online Form 2025 – Start – Last Date: 08 September 2025</a></li>
-                <li><a href="#">UP Police SI / ASI Online Form 2025 – Start – Last Date: 13 September 2025</a></li>
+                <li><a href="lic-aao-ae-recruitment-2025.html">LIC AAO / AE Online Form 2025 – Start – Last Date: 08 September 2025</a></li>
+                <li><a href="up-police-si-online-form-2025.html">UP Police SI / ASI Online Form 2025 – Start – Last Date: 13 September 2025</a></li>
                 <li><a href="#">Railway RRB Paramedical Staff CEN No.03/2025 Online Form 2025 – Start – Last Date: 08 September 2025</a></li>
                 <li><a href="#">Indian Army JAG 123rd Course April 2026 Online Form – Last Date: 04 September 2025</a></li>
                 <li><a href="#">CCRAS Group A B C Online Form 2025 – Start – Last Date: 31 August 2025</a></li>

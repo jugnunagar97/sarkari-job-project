@@ -6,7 +6,50 @@
     <title>Search - Sarkari Job</title>
     <style>
         :root{--header-red:#b30000;--nav-blue:#001f5c}
-        body{font-family:Arial,sans-serif;background-color:#f0f2f5;margin:0;padding:0;color:#333}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1200px;margin:0 auto;padding:0 15px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none}.nav a:hover{background-color:rgba(255,255,255,.08)}.main-content{padding:18px 0; min-height: 60vh;}.page-title{font-size:2rem;font-weight:700;color:#800000;border-bottom:2px solid #800000;padding-bottom:10px;margin-bottom:1rem;}.search-box{background:#fff;border:1px solid #ddd;padding:16px}.search-input{width:100%;padding:10px;border:1px solid #ccc}.search-help{font-size:.9rem;color:#555;margin-top:8px}.results{margin-top:16px;background:#fff;border:1px solid #ddd;padding:12px}
+        body{font-family:Arial,sans-serif;background-color:#f0f2f5;margin:0;padding:0;color:#333;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1200px;margin:0 auto;padding:0 15px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:5px}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none;transition:background-color 0.2s}.nav a:hover{background-color:rgba(255,255,255,.08)}.main-content{padding:18px 0; min-height: 60vh;}.page-title{font-size:2rem;font-weight:700;color:#800000;border-bottom:2px solid #800000;padding-bottom:10px;margin-bottom:1rem;}.search-container{background-color:#fff;border:1px solid #ddd;padding:20px;text-align:center}.search-box{width:100%;max-width:500px;padding:12px;font-size:16px;border:2px solid #ddd;border-radius:5px;margin-bottom:15px}.search-btn{background-color:var(--header-red);color:#fff;padding:12px 25px;border:none;border-radius:5px;font-size:16px;cursor:pointer;font-weight:600}.search-btn:hover{background-color:#8b0000}.search-tips{background-color:#f8f9fa;border:1px solid #e9ecef;padding:15px;margin-top:20px;border-radius:5px}.search-tips h3{color:#495057;margin-top:0}.search-tips ul{text-align:left;padding-left:20px}.search-tips li{margin-bottom:8px;color:#6c757d}.footer{background-color:#1f2937;color:#fff;padding:1rem 0;margin-top:1.25rem;text-align:center}.footer a{color:#d1d5db;margin:0 10px}
+        
+        /* Mobile Responsive CSS */
+        @media (max-width: 900px){
+            .container{padding:0 12px}
+            .page-title{font-size:1.8rem}
+            .search-container{padding:15px}
+            .search-box{max-width:100%;font-size:15px}
+        }
+        @media (max-width: 700px){
+            .header h1{font-size:2rem}
+            .header p{font-size:1rem}
+            .nav-container{flex-wrap:wrap;gap:3px}
+            .nav a{padding:6px 10px;font-size:14px}
+            .page-title{font-size:1.6rem;padding-bottom:8px}
+            .search-container{padding:12px}
+            .search-box{padding:10px;font-size:14px}
+            .search-btn{padding:10px 20px;font-size:15px}
+            .search-tips{padding:12px}
+        }
+        @media (max-width: 500px){
+            .container{padding:0 8px}
+            .header h1{font-size:1.8rem}
+            .header p{font-size:0.9rem}
+            .nav-container{flex-direction:column;gap:5px}
+            .nav a{padding:5px 8px;font-size:13px;margin:1px 0}
+            .page-title{font-size:1.4rem;padding-bottom:6px}
+            .search-container{padding:10px}
+            .search-box{padding:8px;font-size:13px}
+            .search-btn{padding:8px 16px;font-size:14px}
+            .search-tips{padding:10px;font-size:14px}
+            .footer a{margin:0 5px;font-size:13px}
+        }
+        @media (max-width: 400px){
+            .header h1{font-size:1.6rem}
+            .header p{font-size:0.8rem}
+            .nav a{padding:4px 6px;font-size:12px}
+            .page-title{font-size:1.3rem;padding-bottom:5px}
+            .search-container{padding:8px}
+            .search-box{padding:6px;font-size:12px}
+            .search-btn{padding:6px 12px;font-size:13px}
+            .search-tips{padding:8px;font-size:13px}
+            .footer a{margin:0 4px;font-size:12px}
+        }
     </style>
     <script>
         // Lightweight site-wide search with on-demand page fetching and caching
@@ -110,24 +153,29 @@
     </nav>
     <main class="container main-content">
         <h1 class="page-title">Search</h1>
-        <div class="search-box">
-            <form onsubmit="return doSearch()">
-                <input id="q" class="search-input" type="text" placeholder="Search jobs, results, admit cards, syllabus..." />
-                <div class="search-help">Type a keyword and press Enter. Results below filter instantly.</div>
-            </form>
+        <div class="search-container">
+            <div class="search-box">
+                <form onsubmit="return doSearch()">
+                    <input id="q" class="search-input" type="text" placeholder="Search jobs, results, admit cards, syllabus..." />
+                    <div class="search-help">Type a keyword and press Enter. Results below filter instantly.</div>
+                </form>
+                <button type="submit" class="search-btn">Search</button>
+            </div>
+            <div class="search-tips">
+                <h3>Search Tips:</h3>
+                <ul>
+                    <li>Use specific keywords like "UP Police SI", "IBPS Clerk", "Admit Card 2024", etc.</li>
+                    <li>Try common variations of the keyword (e.g., "UP Police SI Online Form 2025" or "UP Police SI Online Form 2025 (4543 Post)").</li>
+                    <li>If you're looking for a specific date or location, include it (e.g., "UP Police SI Online Form 2025 (4543 Post) 2025").</li>
+                    <li>For syllabus, try "Syllabus 2024", "Syllabus 2025", etc.</li>
+                    <li>For admit card, try "Admit Card 2024", "Admit Card 2025", etc.</li>
+                    <li>For answer key, try "Answer Key 2024", "Answer Key 2025", etc.</li>
+                </ul>
+            </div>
         </div>
         <div class="results">
-            <ul>
-                <li><a href="latest-jobs.html">Latest Jobs</a></li>
-                <li><a href="results.html">Results</a></li>
-                <li><a href="admit-card.html">Admit Card</a></li>
-                <li><a href="answer-key.html">Answer Key</a></li>
-                <li><a href="syllabus.html">Syllabus</a></li>
-                <li><a href="admission.html">Admission</a></li>
-                <li><a href="privacy-policy.html">Privacy Policy</a></li>
-                <li><a href="disclaimer.html">Disclaimer</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="about.html">About</a></li>
+            <ul id="results-list">
+                <!-- Results will be populated here by JavaScript -->
             </ul>
         </div>
     </main>
