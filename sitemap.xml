@@ -1,573 +1,854 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://sarkaariresult.org/index.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>1.0</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/about.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/admission.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/admit-card.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/aiims-cre-group-b-c-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/answer-key.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/asrb-net-sms-sto-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bank-of-baroda-lbo-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bcece-2025-2nd-round-allotment-result.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-bseb-deled-admit-card-2025-27.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-bssc-office-attendant-online-form-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-cet-b-ed-4th-merit-list-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-civil-court-clerk-mains-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-iti-cat-2025-2nd-round-allotment-result.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bihar-vidhan-sabha-05-2024-mains-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bpsc-district-sports-officer-dso-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bpsc-hod-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bpsc-school-teacher-tre-2-0-result-nios-deled.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bpssc-bihar-police-enforcement-si-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/brabu-ug-3rd-semester-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bscb-bihar-co-operative-bank-assistant-csa-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bsf-hc-ro-rm-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/bsphcl-assistant-executive-engineer-gto-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/central-bank-credit-officer-final-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/coast-guard-navik-cgept-02-2025-stage-2nd-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/contact.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/dcece-pe-revised-mop-up-seat-allotment-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/disclaimer.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/dsssb-various-post-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/fact-checking.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ib-junior-intelligence-officer-grade-ii-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ibps-clerk-15th-recruitment-2025-last-date-today.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ibps-so-xv-15th-pre-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/idbi-bank-jam-grade-o-final-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/indian-navy-civilian-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/iocl-pipelines-division-apprentice-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/jharkhand-jceceb-b-ed-revised-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/job-template.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/latest-jobs.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/lic-aao-ae-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/mpesb-excise-constable-revised-exam-date-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/mpesb-group-5-post-recruitment-2025-last-date.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/niacl-ao-scale-i-online-form-2025-last-date.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/nicl-ao-mains-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/nta-csir-ugc-net-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/pfrda-assistant-manager-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/privacy-policy.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/pspcl-assistant-lineman-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/railway-rpf-si-final-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/railway-rrb-alp-01-2024-cbat-re-exam-city-details-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/railway-rrb-ntpc-102-inter-level-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/railway-rrb-paramedical-staff-cen-04-2024-dv-call-letter-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/railway-rrc-wcr-apprentice-recruitment-2025-start.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rajasthan-hc-civil-judge-pre-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rcfl-apprentice-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/results.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rpsc-1st-grade-teacher-agriculture-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rpsc-librarian-2024-result.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rpsc-school-lecturer-pgt-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rpsc-senior-teacher-gr-ii-exam-city-details-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rrb-section-controller-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rssb-4th-class-group-d-exam-date-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rssb-ldc-grade-ii-junior-assistant-2024-final-result.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rssb-upper-primary-school-teacher-2022-sst-final-result.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/rssb-vdo-new-exam-date-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/sbi-bank-clerk-1st-wait-list-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/search.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/sidbi-bank-officer-grade-a-b-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ssc-jht-2024-marks.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ssc-phase-13-re-exam-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/supreme-court-sci-court-master-recruitment-2025-start.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/syllabus.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/ukpsc-lower-pcs-mains-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/up-police-constable-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/up-police-si-online-form-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/up-police-si-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/upsc-nda-ii-exam-time-table-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/upsssc-junior-assistant-08-2022-final-result-chk.html</loc>
-        <lastmod>2025-08-31</lastmod>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://sarkaariresult.org/upsssc-pet-exam-city-details-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <loc>https://sarkaariresult.org/aadhar-card-download-correction-status-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/aai-junior-executive-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/about.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/admission.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/admit-card.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/afcat-02-2025-admit-card-out.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/aiims-cre-group-b-c-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/answer-key.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/army-102-tes-54-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/asrb-net-sms-sto-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bank-of-baroda-lbo-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bcece-2025-2nd-round-allotment-result.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/beltron-programmer-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bihar-bpsc-aes-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bihar-bpsc-atp-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-bseb-deled-admit-card-2025-27.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-bssc-office-attendant-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-cet-b-ed-4th-merit-list-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-cet-b-ed-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-civil-court-clerk-mains-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-dakhil-kharij-registration-online-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-income-cast-residential-certificate-online-apply-verification-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-iti-cat-2025-2nd-round-allotment-result.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-shs-ayush-medical-officer-recruitment-2025-start.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bihar-shs-laboratory-technician-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-stet-2024-online-form-re-open.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bihar-vidhan-sabha-05-2024-mains-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bihar-vidhan-sabha-security-guard-01-2023-pet-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bpsc-aedo-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bpsc-assistant-section-officer-aso-pre-exam-date-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bpsc-district-sports-officer-dso-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bpsc-dso-ad-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bpsc-hod-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bpsc-mdo-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bpsc-mvi-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bpsc-school-teacher-tre-2-0-result-nios-deled.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bpsc-vice-principal-iti-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bpssc-bihar-police-enforcement-si-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/brabu-ug-3rd-semester-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bscb-bihar-co-operative-bank-assistant-csa-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bsf-hc-ro-rm-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bsphcl-assistant-executive-engineer-gto-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/bssc-4th-graduate-level-recruitment-2025-chk.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/bssc-laboratory-assistant-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/central-bank-credit-officer-final-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/central-sanskrit-university-csu-prak-shastri-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/clat-2026-admission-online-form.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/coast-guard-navik-cgept-02-2025-stage-2nd-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/contact.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/csir-iitr-junior-stenographer-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/dcece-pe-revised-mop-up-seat-allotment-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/disclaimer.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/dsssb-delhi-high-court-attendant-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/dsssb-exam-25-june-to-09-july-final-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/dsssb-non-teaching-various-post-recruitment-2025-start.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/dsssb-various-post-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/dsssb-various-post-online-form-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://sarkaariresult.org/fact-checking.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/haryana-htet-online-form-2024.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ib-junior-intelligence-officer-grade-ii-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ibps-clerk-15th-recruitment-2025-last-date-today.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ibps-clerk-csa-15th-xv-edit-correction-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ibps-so-xv-15th-pre-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/idbi-bank-jam-grade-o-final-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/iim-cat-2025-admission-online-form.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/index.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>1.0</priority>
+    </url>
+    <url>
         <loc>https://sarkaariresult.org/indian-army-dental-corps-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/indian-army-ncc-123rd-course-april-2026-online-form.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/indian-coast-guard-navik-gd-yantrik-01-2026-02-2026-batch-edit-form.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/indian-navy-civilian-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/iocl-pipelines-division-apprentice-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/isro-icrb-scientist-engineer-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/jharkhand-jceceb-b-ed-revised-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/job-template.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/jpsc-acf-pre-revised-answer-key-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/latest-jobs.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/lic-aao-ae-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mathura-pvt-online-form-2025-date-extend.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mp-anganwadi-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mpesb-excise-constable-revised-exam-date-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mpesb-group-5-post-recruitment-2025-last-date.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mp-high-court-mphc-class-iv-recruitment-2025-start.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/mppgcl-ae-je-other-post-recruitment-2025-extended.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/mp-rojgar-panjiyan-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/muit-admissions-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/muit-diploma-admissions-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/muit-noida-majmc-bajmc-bachelor-of-animation-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/neet-pg-result-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/niacl-ao-scale-i-online-form-2025-last-date.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/niacl-assistant-final-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/niacl-assistants-online-form-2024.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/nicl-ao-mains-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/nta-csir-ugc-net-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/pan-card-registration-correction-other-service-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/patna-high-court-mazdoor-answer-key-2025-out.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/patna-high-court-stenographer-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/pfrda-assistant-manager-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/privacy-policy.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/pspcl-assistant-lineman-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rpf-si-final-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrb-alp-01-2024-cbat-re-exam-city-details-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrb-alp-edit-modify-application-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrb-ntpc-102-inter-level-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrb-paramedical-staff-cen-04-2024-dv-call-letter-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrc-cr-apprentice-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/railway-rrc-sr-apprentice-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/railway-rrc-wcr-apprentice-recruitment-2025-start.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rajasthan-b-ed-2025-online-form.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rajasthan-hc-civil-judge-pre-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rajasthan-police-constable-telecommunication-online-form-2025-correction-last-date.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rajasthan-rssb-patwari-question-paper-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rcfl-apprentice-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/results.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-1st-grade-teacher-agriculture-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-1st-grade-teacher-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rpsc-2nd-grade-teacher-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rpsc-junior-legal-officer-jlo-recruitment-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-librarian-2024-result.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-school-lecturer-pgt-result-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-senior-teacher-gr-ii-exam-city-details-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rpsc-veterinary-officer-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rrb-section-controller-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rrc-eastern-railway-apprentice-recruitment-2025-start.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-4th-class-group-d-exam-date-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-aayush-officer-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rssb-account-assistant-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-agriculture-supervisor-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-forest-guard-forester-surveyor-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-ldc-grade-ii-junior-assistant-2024-final-result.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rssb-livestock-assistant-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/rssb-nhm-rajmes-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-primary-school-teacher-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-support-engineer-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-upper-primary-school-teacher-2022-sst-final-result.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-upper-school-teacher-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/rssb-vdo-new-exam-date-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/sav-bihar-class-11th-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/sbi-bank-clerk-1st-wait-list-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/search.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/sidbi-bank-officer-grade-a-b-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ssc-cpo-si-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/ssc-cpo-si-paper-ii-final-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ssc-jht-2024-marks.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ssc-otr-correction-notice-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ssc-phase-13-re-exam-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/ssc-stenographer-c-d-answer-key-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/ssc-stenographer-c-d-final-marks-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/supreme-court-sci-court-master-recruitment-2025-start.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/syllabus.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/ukpsc-lower-pcs-mains-admit-card-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-dakhil-kharij-registration-online-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/updeled-2024-online-counseling.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upessc-assistant-professor-b-ed-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-income-cast-residential-certificate-online-verification-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-police-constable-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-police-si-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-police-si-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-police-si-syllabus-exam-pattern-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-polytechnic-jeecup-online-counseling-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/uppsc-assistant-engineer-mains-exam-date-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/uppsc-gic-lecturer-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/uppsc-various-post-direct-recruitment-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upsc-cds-ii-correction-edit-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/up-scholarship-online-form-2025-26.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upsc-nda-ii-exam-time-table-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upsc-otr-online-form-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upsssc-junior-assistant-08-2022-final-result-chk.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/upsssc-pet-exam-city-details-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://sarkaariresult.org/voter-id-registration-other-voter-service-2025.html</loc>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
     <url>
         <loc>https://sarkaariresult.org/wbssc-assistant-teacher-admit-card-2025.html</loc>
-        <lastmod>2025-08-31</lastmod>
+        <lastmod>2025-09-02</lastmod>
         <priority>0.8</priority>
     </url>
 </urlset>
+
