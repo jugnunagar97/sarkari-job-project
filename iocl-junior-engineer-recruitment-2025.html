@@ -16,74 +16,83 @@
     <style>
         :root{--header-red:#b30000;--nav-blue:#001f5c;--maroon:#4b0b1a;--dark-blue:#06123b;--green:#0f5132;--orange:#e95400}
         body{font-family:Arial,sans-serif;background-color:#ffffff;margin:0;padding:0;color:#111;font-size:17px;line-height:1.7;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}a{color:#0000ee;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:920px;margin:0 auto;padding:0 12px}.header{background-color:var(--header-red);color:#fff;text-align:center;padding:.85rem 0}.header h1{font-size:2.4rem;font-weight:700;margin:0}.header h1 a{color:#fff;text-decoration:none}.header p{font-size:1.1rem;margin:0}.nav{background-color:var(--nav-blue);padding:.45rem 0}.nav-container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;gap:5px}.nav a{color:#fff;font-weight:700;padding:8px 14px;text-decoration:none;transition:background-color 0.2s}.nav a:hover{background-color:rgba(255,255,255,.08)}.main{padding:18px 0}.post-title{font-size:1.8rem;font-weight:700;color:#0a2a7a;margin:0 0 .3rem 0}.meta{color:#800000;font-weight:700;margin-bottom:1rem}.intro{line-height:1.75;background:#fff;border:1px solid #ddd;padding:14px;margin-bottom:12px}p{line-height:1.75;margin:0 0 8px 0}.cta-title{background:#fff;border:1px solid #ddd;text-align:center;padding:8px;font-weight:700}.section-table{width:100%;border-collapse:separate;border-spacing:0;background:#fff;border:1px solid #bbb;margin:0 0 14px 0;overflow-x:auto}.section-table th{background:var(--maroon);color:#fff;padding:9px 10px;border-right:1px solid #933}.section-table td{vertical-align:top;padding:10px 12px;border-top:1px solid #ccc;border-right:1px solid #ccc;line-height:1.7}.section-table td ul, .faq ol, .faq ul{list-style:disc;list-style-position:outside;padding-left:26px;margin:0}.section-table td li, .faq ol li, .faq ul li{margin:4px 0;line-height:1.7}li::marker{font-size:1.35em}.disclaimer{font-size:14px;color:#333;background:#fff;border:1px solid #ddd;margin:12px 0;padding:10px;line-height:1.6}.badge{background:yellow;padding:2px 6px}.strip{display:grid;grid-template-columns:2fr 1fr;border:1px solid #bbb;background:#fff;margin:14px 0}.strip h3{margin:0;padding:8px 10px;color:#fff;background:var(--green)}.strip .right h3{background:var(--orange)}.faq-title{background:#fff;border:1px solid #ccc;text-align:center;font-weight:700;padding:8px;margin-top:16px}.faq{background:#fff;border:1px solid #ccc;padding:10px}.faq .q{font-weight:700}.two-col{display:grid;grid-template-columns:1fr 1fr;gap:12px}.footer{background-color:#1f2937;color:#fff;padding:1rem 0;margin-top:1.25rem;text-align:center}.footer a{color:#d1d5db;margin:0 10px}
-        @media (max-width: 900px){
-            .container{padding:0 8px}
-            .post-title{font-size:1.6rem}
-            .section-table{font-size:15px}
-            .section-table td{padding:8px 10px}
-            .section-table th{padding:7px 8px}
-            .strip h3{font-size:1rem;padding:6px 8px}
-            .cta-title{font-size:1rem;padding:6px}
-            .faq-title{font-size:1rem;padding:6px}
-            .intro{padding:12px}
-            .faq{padding:8px}
-            .disclaimer{padding:8px;font-size:13px}
+
+        /* New CSS for IOCL content */
+        .new-section .container {
+            max-width: 920px;
+            margin: 0 auto;
+            padding: 0 12px;
         }
-        @media (max-width: 700px){
-            .header h1{font-size:2rem}
-            .header p{font-size:1rem}
-            .nav-container{flex-wrap:wrap;gap:3px}
-            .nav a{padding:6px 10px;font-size:14px}
-            .post-title{font-size:1.5rem}
-            .meta{font-size:15px}
-            .section-table{font-size:14px}
-            .section-table td{padding:6px 8px}
-            .section-table th{padding:6px 7px}
-            .strip h3{font-size:0.95rem;padding:5px 7px}
-            .cta-title{font-size:0.95rem;padding:5px}
-            .faq-title{font-size:0.95rem;padding:5px}
-            .intro{padding:10px}
-            .faq{padding:6px}
-            .disclaimer{padding:6px;font-size:12px}
-            .two-col{grid-template-columns:1fr}
-            .strip{grid-template-columns:1fr}
+        .new-section .header, .new-section .section-header {
+            background-color: var(--header-red);
+            color: #fff;
+            text-align: center;
+            padding: .85rem 0;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+            font-weight: 700;
         }
-        @media (max-width: 500px){
-            .container{padding:0 6px}
-            .header h1{font-size:1.8rem}
-            .header p{font-size:0.9rem}
-            .nav-container{flex-direction:column;gap:5px}
-            .nav a{padding:5px 8px;font-size:13px;margin:1px 0}
-            .post-title{font-size:1.4rem}
-            .meta{font-size:14px}
-            .section-table{font-size:13px}
-            .section-table td{padding:5px 6px}
-            .section-table th{padding:5px 6px}
-            .strip h3{font-size:0.9rem;padding:4px 6px}
-            .cta-title{font-size:0.9rem;padding:4px}
-            .faq-title{font-size:0.9rem;padding:4px}
-            .intro{padding:8px}
-            .faq{padding:5px}
-            .disclaimer{padding:6px;font-size:11px}
-            .nav a{padding:5px 8px;font-size:14px}
-            .footer a{margin:0 5px}
+        .new-section .content {
+            background-color: #fff;
+            padding: 14px;
+            border: 1px solid #ddd;
+            margin-bottom: 12px;
         }
-        @media (max-width: 400px){
-            .header h1{font-size:1.6rem}
-            .header p{font-size:0.8rem}
-            .nav a{padding:4px 6px;font-size:12px}
-            .post-title{font-size:1.3rem}
-            .meta{font-size:13px}
-            .section-table{font-size:12px}
-            .section-table td{padding:4px 5px}
-            .section-table th{padding:4px 5px}
-            .strip h3{font-size:0.85rem;padding:3px 5px}
-            .cta-title{font-size:0.85rem;padding:3px}
-            .faq-title{font-size:0.85rem;padding:3px}
-            .intro{padding:6px}
-            .faq{padding:4px}
-            .disclaimer{padding:4px;font-size:10px}
-            .footer a{margin:0 4px}
+        .new-section h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            color: #0a2a7a;
+            margin: 0 0 .3rem 0;
+        }
+        .new-section p {
+            font-size: 17px;
+            line-height: 1.75;
+            margin: 0 0 8px 0;
+        }
+        .new-section a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        .new-section a:hover {
+            text-decoration: underline;
+        }
+        @media (max-width: 900px) {
+            .new-section .content {
+                padding: 12px;
+            }
+            .new-section h2 {
+                font-size: 1.6rem;
+            }
+        }
+        @media (max-width: 700px) {
+            .new-section .header, .new-section .section-header {
+                font-size: 1em;
+            }
+            .new-section h2 {
+                font-size: 1.5rem;
+            }
+            .new-section .content {
+                padding: 10px;
+            }
+        }
+        @media (max-width: 500px) {
+            .new-section .header, .new-section .section-header {
+                padding: .65rem 0;
+            }
+            .new-section h2 {
+                font-size: 1.4rem;
+            }
+            .new-section .content {
+                padding: 8px;
+            }
+        }
+        @media (max-width: 400px) {
+            .new-section h2 {
+                font-size: 1.3rem;
+            }
+            .new-section .content {
+                padding: 6px;
+            }
         }
     </style>
 </head>
@@ -381,6 +390,30 @@
                 <td style="text-align:center"><a href="https://www.iocl.com" target="_blank" rel="noopener" style="font-size: 16px; font-weight: 600; color: #0066cc;">Click Here</a></td>
             </tr>
         </table>
+        <div class="new-section">
+            <div class="container">
+                <div class="header">Why IOCL Junior Engineer 2025 Stands Out</div>
+                <div class="content">
+                    <h2>Why IOCL Junior Engineer 2025 Stands Out</h2>
+                    <p>The IOCL Junior Engineer Recruitment 2025 is a golden opportunity for diploma holders to step into a thriving career with Indian Oil Corporation Limited, a cornerstone of India’s energy sector. With the application window open until September 28, 2025, this recruitment promises a salary range of ₹30,000–₹1,20,000 plus attractive allowances, offering financial stability and growth. It’s more than a job; it’s a chance to contribute to national energy projects, making it a top choice for those exploring diploma jobs in PSU 2025. For the latest updates, check <a href="https://sarkaariresult.org">sarkaariresult.org</a>.</p>
+                </div>
+                <div class="section-header">Preparation Strategies</div>
+                <div class="content">
+                    <h2>Getting Ready for IOCL Recruitment</h2>
+                    <p>Preparing for the IOCL Junior Engineer 2025 selection process requires a focused approach, given its multi-stage format including a Computer-Based Test, Group Discussion, and Personal Interview. Start by strengthening your technical knowledge in disciplines like Mechanical or Electrical engineering, using trusted resources like standard diploma textbooks. Practice online mock tests to simulate the CBT’s two-hour duration, and work on clear communication skills for the GD and PI stages. Staying updated via <a href="https://sarkaariresult.org">sarkaariresult.org</a> can give you an edge with timely tips and notifications.</p>
+                </div>
+                <div class="section-header">Career Insights</div>
+                <div class="content">
+                    <h2>Building a Future with IOCL</h2>
+                    <p>A career as an IOCL Junior Engineer opens doors to long-term growth within a prestigious PSU. Beyond the initial role, you can advance through internal training and performance evaluations, potentially moving into senior technical or managerial positions. The opportunity to work on innovative projects, such as India’s shift toward sustainable energy, adds significant value. This makes it an appealing option for those seeking government jobs for engineers, with more career insights available on <a href="https://sarkaariresult.org">sarkaariresult.org</a>.</p>
+                </div>
+                <div class="section-header">Additional Resources</div>
+                <div class="content">
+                    <h2>Stay Informed and Succeed</h2>
+                    <p>With the application deadline set for September 28, 2025, now is the time to act. Regularly visit the official IOCL website for admit cards and results, and complement this with resources from <a href="https://sarkaariresult.org">sarkaariresult.org</a>, where you’ll find real-time updates and expert advice on IOCL recruitment preparation. This dual approach ensures you’re well-prepared for every step of the process, from application to final selection.</p>
+                </div>
+            </div>
+        </div>
         <div class="two-col">
             <div>
                 <div class="cta-title">Latest Posts</div>
