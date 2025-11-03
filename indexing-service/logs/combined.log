@@ -1,0 +1,4 @@
+{"level":"info","message":"File watcher started","timestamp":"2025-11-03T07:03:35.212Z","watchDir":"C:\\Users\\laptopcare\\Music\\sarkari-job-project"}
+{"env":"development","level":"info","message":"Indexing service started","port":3030,"timestamp":"2025-11-03T07:03:35.263Z","watchDir":"C:\\Users\\laptopcare\\Music\\sarkari-job-project"}
+{"level":"info","message":"Indexing API success","response":{"urlNotificationMetadata":{"url":"https://sarkaariresult.org/ssc-delhi-police-2025"}},"timestamp":"2025-11-03T07:07:10.638Z","type":"URL_UPDATED","url":"https://sarkaariresult.org/ssc-delhi-police-2025"}
+{"level":"info","message":"Indexing API success","response":{"urlNotificationMetadata":{"url":"https://sarkaariresult.org/test-job"}},"timestamp":"2025-11-03T07:07:12.204Z","type":"URL_UPDATED","url":"https://sarkaariresult.org/test-job"}
