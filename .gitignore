@@ -1,8 +1,0 @@
-sarkaariresult-indexing-key.json
-config/*.json
-indexing-service/logs/
-node_modules/
-vendor/
-.env
-
-
